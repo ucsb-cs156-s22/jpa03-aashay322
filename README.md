@@ -6,6 +6,8 @@ Storybook is here:
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-aashay322/branch/master/graph/badge.svg?token=T6i6e3iHYj)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-aashay322)
+
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
 
 # Setup before running application
