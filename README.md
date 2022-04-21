@@ -6,8 +6,6 @@ Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-aashay322-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-aashay322-docs-qa/>
 
-Hello
-
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
 If these repos are not yet setup, see the setup steps in [`docs/storybook.md`](docs/storybook.md).
